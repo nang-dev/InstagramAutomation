@@ -1,0 +1,3 @@
+[submodule "instabot"]
+	path = instabot
+	url = https://github.com/instagrambot/instabot.git
