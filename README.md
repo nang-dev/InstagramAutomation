@@ -2,6 +2,9 @@
 Scripts to automate processes on Instagram for page growth. All the scripts implement the Instagram API. I used this for my meme page and now have 10k+ followers.
 
 ## Get Started
+
+Setup git: https://help.github.com/en/github/getting-started-with-github/set-up-git#setting-up-git
+
 To get started, make a new folder download and setup the repo with the following commands in Terminal (Mac) or Command Line (Windows):
 
 	git clone https://github.com/nang149/InstagramAutomation.git
