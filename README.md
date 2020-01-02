@@ -8,6 +8,7 @@ Setup git: https://help.github.com/en/github/getting-started-with-github/set-up-
 To get started, make a new folder download and setup the repo with the following commands in Terminal (Mac) or Command Line (Windows):
 
 	git clone https://github.com/nang149/InstagramAutomation.git
+	cd InstagramAutomation
 	git submodule init 
 	git submodule update
 	
