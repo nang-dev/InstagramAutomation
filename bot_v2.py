@@ -10,6 +10,7 @@ accounts = [];
 accCount = 0;
 
 myAccount = "not_nang";
+myPassword = "password"
  #fill this out with a starting page
 accounts.append("meme_greatness1");
 accounts.append("crispi_memes");
@@ -120,21 +121,11 @@ class IGbot(object):
 		with open("times.txt", "a+") as times: 
 			times.write(task + ": " + timeString  + "errorDelay" + str(self.errorDelay) + "\r\n");
 
-		"""
-
-		message = client.messages \
-		    .create(
-		         body= task + ": " + timeString,
-		         from_='+18577634660',
-		         to='+14088911891'
-		     )
-		"""
-
 		return currTime;
 
 bot = Bot(filter_users = True, follow_delay = 30, unfollow_delay = 30, max_follows_per_day = 3840, max_unfollows_per_day = 3840);
 
-bot.login(username = myAccount, password = "");	
+bot.login(username = myAccount, password = myPassword);	
 
 amt = 159;
 delay = 3601;

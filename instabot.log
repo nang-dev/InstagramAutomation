@@ -3,3 +3,9 @@
 2019-12-05 13:04:25,672 Going to unfollow 934 users.
 2019-12-05 13:04:30,300 Bot stopped. Worked: 0:00:07.415288
 2019-12-05 13:04:30,304 Total requests: 8
+2020-01-02 10:29:29,190 Instabot Started
+2020-01-02 10:29:31,713 Request returns 400 error!
+2020-01-02 10:29:31,713 Instagram's error message: The password you entered is incorrect. Please try again.
+2020-01-02 10:29:31,716 Error type: bad_password
+2020-01-02 10:29:31,718 Username or password is incorrect.
+2020-01-02 10:29:31,719 Not logged in!
