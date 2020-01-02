@@ -11,6 +11,9 @@ To get started, make a new folder download and setup the repo with the following
 	cd InstagramAutomation
 	git submodule init 
 	git submodule update
+
+You might have to install some dependencies that aren't on your computer. To do this, setup pip (https://pip.pypa.io/en/stable/installing/) and install the dependencies:
+ie. "pip install requests_toolbelt"
 	
 To get started, take a look around at the files: bot_followusers and bot_followusers. If you put in your account info, it will work :)
 
