@@ -1,5 +1,7 @@
 # Instagram Automation
-Scripts to automate processes on Instagram for page growth. All the scripts implement the Instagram API. I used this for my meme page and now have 10k+ followers.
+Scripts to automate processes on Instagram for page growth. All the scripts implement the Instagram API. I used this for my meme page and to gain 10k+ followers.
+
+NOTE: This code is no longer maintaned, as the instagram detects bots :(
 
 ## Get Started
 
