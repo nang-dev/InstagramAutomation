@@ -1,5 +1,6 @@
 # Instagram Automation
-Scripts to automate processes on Instagram for page growth. All the scripts implement the Instagram API. I used this for my meme page and to gain 10k+ followers.
+Scripts to automate processes on Instagram for page growth. All the scripts implement the Instagram API. I used this for my meme page and to gain 10k+ followers. Read more about it here: 
+https://medium.com/@nathan_149/using-code-to-grow-instagram-pages-fc6b74ccfcd0
 
 NOTE: This code is no longer maintaned, as the instagram detects bots :(
 
@@ -21,3 +22,4 @@ To get started, take a look around at the files: bot_followusers and bot_followu
 
 ## How To Run
 Setup python and type in: "python bot_followusers.py" in Terminal (Mac) or CMD (Windows) after putting in your info. Note that this is safe, as it just passes it to the API.
+
